@@ -10,7 +10,7 @@ namespace Helloworld
             //Console.WriteLine(soNguyenTo(10));
             //Console.WriteLine(soChinhPhuong(9));
             //Console.WriteLine(boiChungNhoNhat(8, 12));
-            Console.WriteLine();
+            //Console.WriteLine();
             Console.ReadKey();
         }
 
